@@ -1,0 +1,8 @@
+pandas
+numpy
+matplodlib
+seaborn
+scikit-learn
+streamlit
+
+Only execute if the libraries are not installed
